@@ -4,7 +4,7 @@
 
 <div>
 <table>
-<tr><th>Introdução ao Java</th></tr>
+<tr><th>Introdução ao Java</th><th>Introdução à Orientação a Objetos</th></tr>
 <tr><td>Coelho.java</td></tr>
 <tr><td>Desconto.java</td></tr>
 <tr><td>IdadeUfam.java</td></tr>
