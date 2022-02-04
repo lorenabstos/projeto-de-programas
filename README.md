@@ -9,7 +9,6 @@
 <tr><td>Desconto.java</td><td>CarroMain.java</td></tr>
 <tr><td>IdadeUfam.java</td><td>Proprietario.java</td></tr>
 <tr><td>PorcetagemAcerto.java</td><td>Placa.java</td></tr>
-<tr><td>PorcetagemAcertoCompleto.java</td><td>Motor.java</td></tr>
-<tr><td>Xadrez.java</td></tr>
+<tr><td>Xadrez.java</td><td>Motor.java</td></tr>
 </table>
 </div>
