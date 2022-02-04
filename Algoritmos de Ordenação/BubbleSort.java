@@ -1,5 +1,3 @@
-package AlgoritmosDeOrdenacao;
-
 public class BubbleSort {
     public static void main(String[] args){
         int i, j, aux, trocas=0;
