@@ -1,9 +1,5 @@
-<h1 align="center"> Java ☕ </h1>
-<p align="center">Códigos de exercícios resolvidos em Java.</p>
-
-<h3>Projeto de Programas/Técnicas Avançadas de Programação</h3>
-
-`Linguagem Java`
+<h1 align="center">Projeto de Programas/Técnicas Avançadas de Programação</h1>
+`Linguagem Java ☕`
 
 <div>
 <table>
